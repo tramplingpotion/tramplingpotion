@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tramplingpotion
-- 👀 I’m interested in back-end software development
+- 👀 I’m interested in embedded system development and gameplay design
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me idk
