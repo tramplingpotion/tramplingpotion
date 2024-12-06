@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tramplingpotion
-- 👀 I’m interested in embedded system development and gameplay design
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on idk
+- 👋 Hi, I’m a Jeff
+- 👀 I’m interested in you
+- 🌱 I’m learning everyday 
+- 💞️ I’m looking to collaborate on us
 - 📫 How to reach me idk
 
 <!---
